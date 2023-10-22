@@ -1,0 +1,1 @@
+# tmux-window-nerd-font
